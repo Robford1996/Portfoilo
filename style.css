@@ -120,7 +120,7 @@
     border: 20px;
     padding: 20px;
     text-align: center;
-    width: ;
+    width: auto;
   }
 
   .projects-oldlace {
@@ -128,7 +128,7 @@
     border: 20px;
     padding: 20px;
     text-align: center;
-    width: ;
+    width: auto;
   }
 
   .projects-blue {
@@ -136,7 +136,7 @@
     border: 20px;
     padding: 20px;
     text-align: center;
-    width: ;
+    width: auto;
   }
 
 
@@ -310,9 +310,7 @@
     color: oldlace;
   }
 
-h4{
-  align-items: center;
-}
+
   
   /* .fa {
     padding: 20px;
