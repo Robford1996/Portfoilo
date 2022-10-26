@@ -310,7 +310,9 @@
     color: oldlace;
   }
 
-
+h4{
+  align-items: center;
+}
   
   /* .fa {
     padding: 20px;
