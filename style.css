@@ -5,7 +5,7 @@
   }
 
   body {
-      background-color: oldlace;
+      background-color: white;
   }
 
   /* #white-text {
@@ -35,7 +35,7 @@
     position: -webkit-sticky; 
     position: sticky;
     top: 0;
-    background-color: #9c27b0
+    background-color: #564958
   ;
     color: red;
   }
@@ -97,7 +97,7 @@
   }
   
   .jobtitle1 {
-    color: purple;
+    color: #5f5a5fc9;
     display: inline;
   }
 
@@ -116,7 +116,7 @@
   }
   
   .projects-purple {
-    background-color: #9c27b0;
+    background-color: #221e1e;
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -132,7 +132,7 @@
   }
 
   .projects-blue {
-    background-color: lightblue;
+    background-color: rgb(102, 118, 123);
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -152,7 +152,7 @@
   }
   
   .card-projects {
-    background-color: oldlace;
+    background-color: white;
     border-radius: 10px;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -183,7 +183,6 @@
     color: #fff;
     padding: 2px 10px;
     text-transform: uppercase;
-    cursor: pointer;
   }
   
   .tag-blue {
@@ -203,7 +202,7 @@
   }
   
   .tag-purple {
-    background-color: #9c27b0;
+    background-color: #5d3666;
   }
   
   .tag-pink {
@@ -241,14 +240,14 @@
   }
   
   .certificates {
-    background-color: #A519FA;
+    background-color: #4b4052;
     border: 20px;
     padding: 40px;
     text-align: center;
   }
   
   .contact {
-    background-color: #9c27b0;
+    background-color: gray;
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -257,8 +256,8 @@
   }
 
   .footer {
-    background-color: hotpink;
-    border: #9c27b0 10px solid;
+    background-color: white;
+    border: black 10px solid;
   }
 
   .testimonials {
@@ -271,7 +270,7 @@
   }
 
   h2 {
-    color: #9c27b0
+    color: #252225
   }
 
   #nav-header {
@@ -279,7 +278,7 @@
   }
 
   .purple {
-    color: #9c27b0;
+    color: #403c41;
   }
 
   #oldlace {
@@ -290,15 +289,15 @@
   }
 
   #purple {
-    color: #9c27b0;
+    color: #373138;
   }
 
   #purp {
-    color: #9c27b0;
+    color: #2e2c2a;
   }
 
   #ice {
-    color: #00a2e0;
+    color: #474b47;
   }
 
   #mag {
