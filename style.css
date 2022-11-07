@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    color: black;
+    color: rgb(146, 12, 139);
     
   }
 
   body {
-      background-color: white;
+      background-color: rgb(22, 224, 217);
   }
 
   /* #white-text {
@@ -35,7 +35,7 @@
     position: -webkit-sticky; 
     position: sticky;
     top: 0;
-    background-color: #564958
+    background-color: #ce6cdd
   ;
     color: red;
   }
@@ -54,7 +54,7 @@
   }
   
   .aboutme {
-    background-color: oldlace;
+    background-color: rgb(239, 181, 72);
     height: 50vh;
   }
 
@@ -102,7 +102,7 @@
   }
 
   .jobtitle2 {
-    color: black;
+    color: rgb(206, 104, 104);
     display: inline;
   }
   
@@ -116,7 +116,7 @@
   }
   
   .projects-purple {
-    background-color: #221e1e;
+    background-color: #82e0f5;
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -124,7 +124,7 @@
   }
 
   .projects-oldlace {
-    background-color: oldlace;
+    background-color: rgb(146, 204, 237);
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -132,7 +132,7 @@
   }
 
   .projects-blue {
-    background-color: rgb(102, 118, 123);
+    background-color: rgb(36, 195, 163);
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -247,7 +247,7 @@
   }
   
   .contact {
-    background-color: gray;
+    background-color: rgb(177, 236, 243);
     border: 20px;
     padding: 20px;
     text-align: center;
@@ -256,8 +256,8 @@
   }
 
   .footer {
-    background-color: white;
-    border: black 10px solid;
+    background-color: rgb(118, 149, 225);
+    border: rgb(158, 10, 148) 10px solid;
   }
 
   .testimonials {
@@ -266,11 +266,11 @@
     border: 20px;
     padding: 20px;
     text-align: center;
-    color: white;
+    color: rgb(239, 89, 89);
   }
 
   h2 {
-    color: #252225
+    color: #e37de3
   }
 
   #nav-header {
